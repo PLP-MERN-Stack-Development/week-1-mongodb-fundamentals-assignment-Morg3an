@@ -101,7 +101,7 @@ This will:
 ## 📁 Files Included
 
 * `insert_books.js` — Script to populate MongoDB with sample books.
-* `queries.js` — Contains all required MongoDB queries (you will write this).
+* `queries.js` — Contains all required MongoDB queries.
 * `README.md` — Instructions and project documentation.
 * `screenshot.png` — Screenshot showing your data in MongoDB Compass
 
